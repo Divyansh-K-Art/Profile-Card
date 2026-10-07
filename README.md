@@ -53,7 +53,7 @@ Profile-Card/
 ## ✦ Getting Started
 
 ```bash
-git clone https://github.com/Deepak7Rawat/Profile-Card.git
+git clone https://github.com/Divyansh-K-Art/Profile-Card.git
 cd Profile-Card
 ```
 
